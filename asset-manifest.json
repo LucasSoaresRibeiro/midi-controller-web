@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://lucassoaresribeiro.github.io/midi-controller-web/static/css/main.e1f4b9f0.css",
-    "main.js": "https://lucassoaresribeiro.github.io/midi-controller-web/static/js/main.a75d083b.js",
+    "main.js": "https://lucassoaresribeiro.github.io/midi-controller-web/static/js/main.fbbbfd12.js",
     "index.html": "https://lucassoaresribeiro.github.io/midi-controller-web/index.html",
     "main.e1f4b9f0.css.map": "https://lucassoaresribeiro.github.io/midi-controller-web/static/css/main.e1f4b9f0.css.map",
-    "main.a75d083b.js.map": "https://lucassoaresribeiro.github.io/midi-controller-web/static/js/main.a75d083b.js.map"
+    "main.fbbbfd12.js.map": "https://lucassoaresribeiro.github.io/midi-controller-web/static/js/main.fbbbfd12.js.map"
   },
   "entrypoints": [
     "static/css/main.e1f4b9f0.css",
-    "static/js/main.a75d083b.js"
+    "static/js/main.fbbbfd12.js"
   ]
 }
